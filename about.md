@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 ---
 
-![profile picture](images/my_profil_1.png)
+![profile picture]({{ site.baseurl }}/images/my_profil_1.png)
 
   
   <div>
