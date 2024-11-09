@@ -6,7 +6,7 @@
 name: Trio Wibowo
 
 # Short bio or description (displayed in the header)
-description: Portfolio Data Analyst
+description: Data Analyst Portfolio
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/my_profil_1.png
@@ -24,7 +24,7 @@ footer-links:
   flickr: 
   github: triowibowo21
   instagram:
-  linkedin:
+  linkedin: triowibowo
   pinterest:
   rss: # just type anything here for a working RSS icon
   # twitter: jekyllrb
