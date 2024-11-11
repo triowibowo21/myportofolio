@@ -158,9 +158,7 @@ img {
 }
 
 .masthead {
-  display: flex; /* Menggunakan flex untuk layout */
-  align-items: center; /* Pusatkan secara vertikal */
-  justify-content: center; /* Pusatkan secara horizontal */
+  float: left;
   padding: 20px 0;
   width: 100vw; /* Memastikan elemen ini benar-benar penuh */
   background: $lightGray;
