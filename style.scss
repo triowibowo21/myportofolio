@@ -156,9 +156,8 @@ img {
 
 .masthead {
   padding: 100px 0;
-  background: linear-gradient(135deg, #2c3e50, #4ca1af); /* Gradient background */
+  width: 100%; 
   border-bottom: 1px solid $lightGray;
-  color: white;
   @include mobile {
     text-align: center;
   }
