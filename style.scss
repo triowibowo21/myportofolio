@@ -157,6 +157,7 @@ img {
 .masthead {
   padding: 20px 0;
   width: 100%;
+  background-color: $lightGray;
   border-bottom: 1px solid $lightGray;
   @include mobile {
     text-align: center;
@@ -280,7 +281,7 @@ nav {
 
 footer {
   padding: 20px 0;
-  text-align: center;
+  text-align: left;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
