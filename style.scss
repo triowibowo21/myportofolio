@@ -27,7 +27,7 @@ body {
   margin: 0 auto;
   // max-width: 740px;
   max-width: 100%;
-  padding: 0 20px; 
+  padding: 0; 
   // padding: 0 10px;
   width: 100%;
 }
@@ -271,6 +271,8 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+    // max-width: 740px;
+    // margin: 0 auto;
   }
 
   .comments {
@@ -288,6 +290,8 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  max-width: 740px;
+  margin: 0 auto;
 }
 
 footer {
