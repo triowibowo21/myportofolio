@@ -156,7 +156,7 @@ img {
   margin-bottom: 50px;
   width: 100%; /* Gunakan lebar penuh viewport */
   margin: 0 auto; /* Pusatkan elemen */
-  max-width: 1200px; /* Batasi lebar maksimal */
+  max-width: 100px; /* Batasi lebar maksimal */
 }
 
 .masthead {
@@ -164,7 +164,7 @@ img {
   align-items: center; /* Pusatkan secara vertikal */
   justify-content: center; /* Pusatkan secara horizontal */
   padding: 20px 0;
-  width: 1200px; /* Memastikan elemen ini benar-benar penuh */
+  width: 100%; /* Memastikan elemen ini benar-benar penuh */
   background: $lightGray;
   border-bottom: 1px solid $lightGray;
   @include mobile {
