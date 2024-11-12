@@ -217,12 +217,12 @@ img {
 }
 
 nav {
-  float: center;
-  margin-top: 23px; // @TODO: Vertically middle align
+  display: flex;
+  margin-top: 40px; /* Atur jarak untuk menurunkan navigasi */
   font-family: $helveticaNeue;
   font-size: 18px;
-  display: flex;
   justify-content: center; /* Memusatkan navigasi */
+  align-items: center; /* Memusatkan navigasi secara vertikal */
 
   @include mobile {
     float: none;
