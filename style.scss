@@ -154,7 +154,9 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  width: 1200px; /* Gunakan lebar penuh viewport */
+  width: 100%; /* Gunakan lebar penuh viewport */
+  margin: 0 auto; /* Pusatkan elemen */
+  max-width: 1200px; /* Batasi lebar maksimal */
 }
 
 .masthead {
