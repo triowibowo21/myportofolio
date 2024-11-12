@@ -210,10 +210,10 @@ img {
 
 .site-description {
   text-align: center; /* Pusatkan deskripsi */
-  margin: -5px 0 0 0;
+  // margin: -5px 0 0 0;
   color: $gray;
   font-size: 20px;
-
+  margin-top: 25px;
   @include mobile {
     margin: 3px 0;
   }
