@@ -186,7 +186,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  // float: left;
 
   @include mobile {
     float: none;
@@ -196,7 +196,7 @@ img {
 }
 
 .site-name {
-  text-align: center;
+  text-align: center; /* Pusatkan nama */
   margin: 0;
   color: $darkGray;
   cursor: pointer;
@@ -207,6 +207,7 @@ img {
 }
 
 .site-description {
+  text-align: center; /* Pusatkan deskripsi */
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
