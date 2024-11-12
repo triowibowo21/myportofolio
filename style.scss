@@ -153,14 +153,14 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 100px;
+  margin-bottom: 60px; // jarak headline - ke kata pertama
 
   // margin: 0 auto; /* Pusatkan elemen */
   
 }
 
 .masthead {
-  padding: 60px 0; // mengatur headline garis abu abu
+  padding: 60px 0; // mengatur headline (garis abu-abu)
   background: $lightGray;
   border-bottom: 1px solid $lightGray;
   @include mobile {
@@ -196,7 +196,8 @@ img {
 }
 
 .site-name {
-  float: center;
+  display: flex;
+  justify-content: center;
   margin: 0;
   color: $darkGray;
   cursor: pointer;
