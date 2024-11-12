@@ -167,7 +167,7 @@ img {
   background: $lightGray;
   border-bottom: 1px solid $lightGray;
   @include mobile {
-    text-align: left;
+    text-align: center;
   }
 }
 
