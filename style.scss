@@ -154,7 +154,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  width: 100vw; /* Gunakan lebar penuh viewport */
+  width: 1200px; /* Gunakan lebar penuh viewport */
 }
 
 .masthead {
@@ -162,7 +162,7 @@ img {
   align-items: center; /* Pusatkan secara vertikal */
   justify-content: center; /* Pusatkan secara horizontal */
   padding: 20px 0;
-  width: 100vw; /* Memastikan elemen ini benar-benar penuh */
+  width: 1200px; /* Memastikan elemen ini benar-benar penuh */
   background: $lightGray;
   border-bottom: 1px solid $lightGray;
   @include mobile {
