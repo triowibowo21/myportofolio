@@ -254,9 +254,11 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding: 2em; /* Memberikan padding di sekitar konten */
+  // padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
   max-width: 740px;
+  margin: 0 auto; /* Memusatkan elemen */
 }
 
 .posts > .post:last-child {
