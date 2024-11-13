@@ -13,14 +13,13 @@ permalink: /about/
   </div>
 </div>
 
-  
-  
-
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<div>
+<h1>Education</h1>
+  Septemeber 2013 - October 2018<br>
+  Bachelor of Physic<br>
+  GPA 3.29<br>
+  Dynamics Massive Gravity Model in de-Sitter Universe with Modified Perfect Fluid Stress-Energy Tensor
+</div>
 
 ### Contact me
-
 [triowibowo2810@gmail.com](mailto:triowibowo2810@gmail.com)
