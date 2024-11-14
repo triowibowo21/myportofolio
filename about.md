@@ -3,7 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-  
 <div style="display: flex; align-items: center;">
   <img src="{{ site.baseurl }}/images/trio_wibowo.png" alt="Profile Picture" style="width: 500px; margin-right: 20px;">
   <div>
@@ -13,13 +12,24 @@ permalink: /about/
   </div>
 </div>
 
-<div>
 <h1>Education</h1>
   Septemeber 2013 - October 2018<br>
+  IPB University
   Bachelor of Physic<br>
-  GPA 3.29<br>
-  Dynamics Massive Gravity Model in de-Sitter Universe with Modified Perfect Fluid Stress-Energy Tensor
-</div>
+  Dynamics Massive Gravity Model in de-Sitter Universe with Modified Perfect Fluid Stress-Energy Tensor<br>
+  GPA 3.29
+<h1>Experience</h1>
+  August 2018 - May 2020<br>
+  Operation Delivery Monitoring<br>
+  Collaborate with stakeholders to review UX, SLA, and transaction flow status in product and shipment processes.<br>
+  <p>
+  May 2020 - Now<br>
+  Data Analyst<br>
+  Developed data-driven solutions to support decision-making with a primary focus on customer behavior, aiming to enhance satisfaction across both products and services<br>
 
-### Contact me
+
+## Contact me
 [triowibowo2810@gmail.com](mailto:triowibowo2810@gmail.com)
+
+
+
