@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Cyclistic Bike-Share Analysis
-# permalink: /project/
 ---
 <p>
-This project centers on collecting, analyzing, and reporting data to inform Cyclistic’s marketing strategy. By identifying trends and insights into customer behavior, the project aims to support strategic decisions that will maximize the number of annual memberships, a key driver of Cyclistic’s future growth. Through targeted marketing efforts based on data-driven insights, Cyclistic can focus on attracting and retaining members, ultimately strengthening long-term customer loyalty and revenue.
+This project collects, analyzes, and reports data to inform Cyclistic’s marketing strategy. By identifying trends and insights into customer behavior, the project aims to support strategic decisions that will maximize the number of annual memberships, a key driver of Cyclistic’s future growth. Through targeted marketing efforts based on data-driven insights, Cyclistic can focus on attracting and retaining members, finally strengthening long-term customer loyalty and revenue.
 </p>
+<b>Tools : </b>Jupyter notebook, R, Github, Tableau and Google sheet.
 <ul class="actions">
-    <li><a href="https://triowibowo21.medium.com/customer-churn-prediction-telecommunications-industry-79f5e297f6d7" target="_blank" class="button">View in Medium</a></li>
-    <li><a href="https://github.com/triowibowo21/customer-churn-prediction/blob/master/customer-churn-prediction.ipynb" target="_blank" class="button">View in GitHub</a></li>
-    <li><a href="https://www.kaggle.com/code/triowibowo28/customer-churn-prediction" target="_blank" class="button">View in Kaggle</a></li>
+    <li><a href="https://triowibowo21.medium.com/cyclistic-bike-share-trips-c6e3e208ff1e" target="_blank" class="button">View in Medium</a></li>
+    <li><a href="https://github.com/triowibowo21/cyclistic-bike-share-analysis/blob/master/cyclistic_bike_share_trips.ipynb" target="_blank" class="button">View in GitHub</a></li>
+    <li><a href="https://www.kaggle.com/code/triowibowo28/cyclistic-bike-share-analysis" target="_blank" class="button">View in Kaggle</a></li>
 </ul>
 
 

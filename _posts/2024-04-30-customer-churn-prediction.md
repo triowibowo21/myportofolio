@@ -5,8 +5,9 @@ title: Customer Churn Prediction
 ---
 
 <p>
-This project focuses on predicting customer churn. It is important for companies to know this prediction so they can map out business strategies to retain customers. Accurate churn prediction empowers companies to allocate resources effectively, personalize customer interactions, and ultimately strengthen customer satisfaction. Through data-driven insights, businesses can make informed decisions that drive loyalty and long-term growth.
+This project focuses on predicting customer churn. Companies need to know this prediction to map out business strategies to retain customers. Accurate churn prediction will empower companies to allocate resources effectively, personalize customer interactions, and finally strengthen customer satisfaction. Through data-driven insights, businesses can make informed decisions that drive loyalty and long-term growth.
 </p>
+<b>Tools : </b>Jupyter notebook, Python, GitHub, and Google sheet.
 <ul class="actions">
     <li><a href="https://triowibowo21.medium.com/customer-churn-prediction-telecommunications-industry-79f5e297f6d7" target="_blank" class="button">View in Medium</a></li>
     <li><a href="https://github.com/triowibowo21/customer-churn-prediction/blob/master/customer-churn-prediction.ipynb" target="_blank" class="button">View in GitHub</a></li>
